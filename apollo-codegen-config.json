@@ -1,0 +1,29 @@
+{
+  "schemaNamespace" : "ConcurrencyAPI",
+  "input" : {
+    "operationSearchPaths" : [
+      "**/*.graphql"
+    ],
+    "schemaSearchPaths" : [
+      "**/schema.json"
+    ]
+  },
+  "output" : {
+    "testMocks" : {
+      "none" : {
+      }
+    },
+    "schemaTypes" : {
+      "path" : "./ConcurrencyAPI",
+      "moduleType" : {
+        "swiftPackageManager" : {
+          "name" : "SwiftConcrency"
+        }
+      }
+    },
+    "operations" : {
+      "inSchemaModule" : {
+      }
+    }
+  }
+}
