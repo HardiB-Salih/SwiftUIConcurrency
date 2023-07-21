@@ -57,10 +57,10 @@ The app uses local JSON data for previews. Ensure that the local JSON data is pr
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://filedn.com/lgYM5v25LH64Wknu6KIrjpj/Client%20Project/Innovative%20Candor/GitHub/SwiftUIConcurrency/1.png" alt="Screen" width="300">
-  <img src="https://filedn.com/lgYM5v25LH64Wknu6KIrjpj/Client%20Project/Innovative%20Candor/GitHub/SwiftUIConcurrency/2.png" alt="Screen" width="300">
-  <img src="https://filedn.com/lgYM5v25LH64Wknu6KIrjpj/Client%20Project/Innovative%20Candor/GitHub/SwiftUIConcurrency/3.png" alt="Screen" width="300">
-  <img src="https://filedn.com/lgYM5v25LH64Wknu6KIrjpj/Client%20Project/Innovative%20Candor/GitHub/SwiftUIConcurrency/4.png" alt="Screen" width="300">
+  <img src="https://filedn.com/lgYM5v25LH64Wknu6KIrjpj/Client%20Project/Innovative%20Candor/GitHub/SwiftUIConcurrency/1.png" alt="Screen" width="200">
+  <img src="https://filedn.com/lgYM5v25LH64Wknu6KIrjpj/Client%20Project/Innovative%20Candor/GitHub/SwiftUIConcurrency/2.png" alt="Screen" width="200">
+  <img src="https://filedn.com/lgYM5v25LH64Wknu6KIrjpj/Client%20Project/Innovative%20Candor/GitHub/SwiftUIConcurrency/3.png" alt="Screen" width="200">
+  <img src="https://filedn.com/lgYM5v25LH64Wknu6KIrjpj/Client%20Project/Innovative%20Candor/GitHub/SwiftUIConcurrency/4.png" alt="Screen" width="200">
 </div>
 
 ## Feedback and Support
